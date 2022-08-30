@@ -1,2 +1,5 @@
-package com.practice.loosely_coupled;public interface Mentor {
+package com.practice.loosely_coupled;
+
+public interface Mentor {
+    void createAccount();
 }
