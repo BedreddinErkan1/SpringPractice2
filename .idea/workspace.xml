@@ -4,33 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/loosely_coupled/FullTimeMentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/loosely_coupled/Mentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/loosely_coupled/MentorAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/loosely_coupled/PartTimeMentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/loosely_coupled/SampleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/tightly_coupled/FullTimeMentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/tightly_coupled/Mentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/tightly_coupled/PartTimeMentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/src/main/java/com/practice/tightly_coupled/SampleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/ConfigAny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/ConfigApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/FullTimeMentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/PartTimeMentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/SampleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/Agile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/ConfigCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/SampleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/sample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/sample/ConfigCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/sample/DealerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/sample/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +44,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11"
+    "jdk.selected.JAVA_MODULE": "11",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager" selected="Application.com.cydeo.stereotype_annotation.SampleApp">
@@ -137,8 +120,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661875218107</updated>
-      <workItem from="1661875219679" duration="1629000" />
+      <workItem from="1661875219679" duration="1945000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1661881041475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661881041475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,5 +145,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
