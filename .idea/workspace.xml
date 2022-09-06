@@ -5,24 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/SampleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/model/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/proxy/CommentNotificationProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/proxy/CommentPushNotificationProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/proxy/EmailCommentNotificationProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/repository/CommentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/repository/DBCommentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/service/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/test/java/com/sample/SampleApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/java/com/sample/ControllerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/java/com/sample/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/resources/static/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/resources/static/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/test/java/com/sample/spring07springmvccontroller/Spring07SpringMvcControllerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -41,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-06-SpringBoot-Demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,6 +51,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -64,7 +64,8 @@
     "last_opened_file_path": "/Users/bedrettinerkan/IdeaProjects/SpringPractice2/Spring-06-SpringBoot-Demo/src/main/java/com/sample/repository",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "2276de586d2b5a554278f8d99648f2e5"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,11 +76,21 @@
       <recent name="$PROJECT_DIR$/Spring-04-Abstraction/src/main/java/com/cydeo" />
       <recent name="$PROJECT_DIR$/Spring-04-Abstraction/src/main/java" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.sample.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Spring06SpringBootDemoApplication">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Spring07SpringMvcControllerApplication">
     <configuration name="CydeoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cydeo.CydeoApp" />
       <module name="Spring-03-Core-DI" />
@@ -152,6 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring07SpringMvcControllerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-07-Spring-MVC-Controller" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sample.ControllerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.com.cydeo.CydeoApp (1)" />
@@ -170,7 +188,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661875218107</updated>
-      <workItem from="1661875219679" duration="7506000" />
+      <workItem from="1661875219679" duration="8356000" />
+      <workItem from="1662388991919" duration="3559000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661881041475</created>
@@ -193,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661882102230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1662123266261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662123266261</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +237,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
