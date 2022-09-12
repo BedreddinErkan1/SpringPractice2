@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/java/com/sample/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/resources/static/user/userinfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/src/main/java/com/sample/ModelApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/src/main/java/com/sample/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/src/main/java/com/sample/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/src/main/resources/templates/student/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/src/test/java/com/sample/spring08springmvcmodel/Spring08SpringMvcModelApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/resources/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/java/com/sample/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/java/com/sample/controller/HomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +18,12 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-08-Spring-MVC-Model" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-06-SpringBoot-Demo" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -200,7 +185,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661875218107</updated>
       <workItem from="1661875219679" duration="8356000" />
-      <workItem from="1662388991919" duration="8114000" />
+      <workItem from="1662388991919" duration="11063000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661881041475</created>
@@ -237,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662471572297</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1662563616396</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662563616396</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
