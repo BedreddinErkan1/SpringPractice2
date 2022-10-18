@@ -5,8 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/java/com/sample/Spring09SpringTyhmelefApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/java/com/sample/bootstrap/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/java/com/sample/controller/MentorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/java/com/sample/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/java/com/sample/model/Mentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/java/com/sample/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/static/css/bootstrap-4.1.3-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/static/css/bootstrap-4.1.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/static/images/welcome-38249.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/templates/fragments/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/templates/mentor/mentor-confirmation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/templates/mentor/mentor-register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/templates/student/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/templates/student/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/test/java/com/sample/Spring09SpringTyhmelefApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/sample/Spring10OrmTableCreationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/test/java/com/sample/Spring10OrmTableCreationApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +65,21 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-06-SpringBoot-Demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-10-ORM-TableCreation" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,20 +105,30 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/Users/bedrettinerkan/IdeaProjects/SpringPractice2/Spring-06-SpringBoot-Demo/src/main/java/com/sample/repository",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "/Users/bedrettinerkan/IdeaProjects/SpringPractice2/Spring-09-Spring-Tyhmelef/src/main/resources/templates",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "2276de586d2b5a554278f8d99648f2e5"
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "4c01426ded9a14190a920b1d98a60ae7"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/repository" />
-      <recent name="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java/com/sample/proxy" />
-      <recent name="$PROJECT_DIR$/Spring-05-Core-BeanScope/src/main/java/com/cydeo" />
-      <recent name="$PROJECT_DIR$/Spring-04-Abstraction/src/main/java/com/cydeo" />
-      <recent name="$PROJECT_DIR$/Spring-04-Abstraction/src/main/java" />
+      <recent name="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/java/com/sample/controller" />
+      <recent name="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/java/com/sample/model" />
+      <recent name="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Spring-09-Spring-Tyhmelef/src/main/resources/static/css.bootstrap-4.1.3-dist" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.sample" />
@@ -79,7 +145,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Spring08SpringMvcModelApplication">
+  <component name="RunManager" selected="Spring Boot.Spring10OrmTableCreationApplication">
     <configuration name="CydeoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cydeo.CydeoApp" />
       <module name="Spring-03-Core-DI" />
@@ -166,6 +232,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring09SpringTyhmelefApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-09-Spring-Tyhmelef" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sample.Spring09SpringTyhmelefApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring10OrmTableCreationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-10-ORM-TableCreation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sample.Spring10OrmTableCreationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.com.cydeo.CydeoApp (1)" />
@@ -185,7 +265,10 @@
       <option name="presentableId" value="Default" />
       <updated>1661875218107</updated>
       <workItem from="1661875219679" duration="8356000" />
-      <workItem from="1662388991919" duration="11063000" />
+      <workItem from="1662388991919" duration="30335000" />
+      <workItem from="1663595656198" duration="599000" />
+      <workItem from="1666036583040" duration="559000" />
+      <workItem from="1666037153745" duration="3400000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661881041475</created>
@@ -229,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662563616396</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="initial commit">
+      <created>1662994763224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662994763224</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
