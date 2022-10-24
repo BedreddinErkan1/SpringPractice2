@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/SpringOrmOneToManyManyToManyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/bootstrap/DataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/enums/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/model/PaymentDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/repository/PaymentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/test/java/com/sample/SpringOrmOneToManyManyToManyApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/model/Merchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/repository/MerchantRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/bootstrap/DataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/bootstrap/DataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/model/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/model/Payment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +51,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2E5AkpcVISZx73en62uRA4ActEV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -262,7 +260,7 @@
       <workItem from="1666037153745" duration="7767000" />
       <workItem from="1666111136919" duration="5994000" />
       <workItem from="1666277583986" duration="197000" />
-      <workItem from="1666277784250" duration="8670000" />
+      <workItem from="1666277784250" duration="10951000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661881041475</created>
@@ -334,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666647267041</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="initial commit">
+      <created>1666649111052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666649111052</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
