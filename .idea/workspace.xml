@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="ManyToMany&#10;Mapping">
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/model/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/repository/CartRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/repository/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/sample/Spring13OrmCinemaLabApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/sample/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/sample/entity/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/sample/enums/MovieState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/sample/enums/MovieType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/test/java/com/sample/Spring13OrmCinemaLabApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/bootstrap/DataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/sample/bootstrap/DataGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +32,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-13-ORM-CinemaLab" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -83,7 +94,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.appearance",
-    "spring.configuration.checksum": "4c01426ded9a14190a920b1d98a60ae7"
+    "spring.configuration.checksum": "1bd27197a1c888718ee5b2704bb33342"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -117,7 +128,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringOrmOneToManyManyToManyApplication">
+  <component name="RunManager" selected="Spring Boot.Spring13OrmCinemaLabApplication">
     <configuration name="CydeoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cydeo.CydeoApp" />
       <module name="Spring-03-Core-DI" />
@@ -225,6 +236,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring13OrmCinemaLabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-13-ORM-CinemaLab" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sample.Spring13OrmCinemaLabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringOrmOneToManyManyToManyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Spring-12-ORM-OneToMany-ManyToMany" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sample.SpringOrmOneToManyManyToManyApplication" />
@@ -257,7 +275,8 @@
       <workItem from="1666037153745" duration="7767000" />
       <workItem from="1666111136919" duration="5994000" />
       <workItem from="1666277583986" duration="197000" />
-      <workItem from="1666277784250" duration="12041000" />
+      <workItem from="1666277784250" duration="13704000" />
+      <workItem from="1666710487967" duration="1048000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661881041475</created>
@@ -343,7 +362,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666651483151</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ManyToMany&#10;Mapping">
+      <created>1666652580993</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666652580993</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ManyToMany&#10;Mapping">
+      <created>1666652706646</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666652706646</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
