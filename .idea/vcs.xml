@@ -10,5 +10,6 @@
     <mapping directory="$PROJECT_DIR$/Spring-11-ORM-Mapping-OneToOne" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Spring-13-ORM-CinemaLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-14-ORM-Queries" vcs="Git" />
   </component>
 </project>

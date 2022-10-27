@@ -17,6 +17,7 @@
         <module>Spring-05-Core-BeanScope</module>
         <module>Spring-10-ORM-TableCreation</module>
         <module>Spring-11-ORM-Mapping-OneToOne</module>
+        <module>Spring-14-ORM-Queries</module>
     </modules>
 
     <properties>
