@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="CinemaLab">
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/Spring14OrmQueriesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/bootstrap/DataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/entity/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/repository/RegionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/test/java/com/sample/Spring14OrmQueriesApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="Queries">
+      <change beforePath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/bootstrap/DataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/bootstrap/DataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/repository/RegionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/repository/RegionRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +268,7 @@
       <workItem from="1666111136919" duration="5994000" />
       <workItem from="1666277583986" duration="197000" />
       <workItem from="1666277784250" duration="13704000" />
-      <workItem from="1666710487967" duration="10967000" />
+      <workItem from="1666710487967" duration="11427000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661881041475</created>
@@ -415,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666877455674</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Queries">
+      <created>1666900493564</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666900493564</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,6 +425,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="ManyToMany&#10;Mapping" />
     <MESSAGE value="CinemaLab" />
-    <option name="LAST_COMMIT_MESSAGE" value="CinemaLab" />
+    <MESSAGE value="Queries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queries" />
   </component>
 </project>
