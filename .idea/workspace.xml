@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0c1599e-78ad-4056-8d8d-f3d6425cf35a" name="Changes" comment="Queries">
+      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/repository/CourseRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/bootstrap/DataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/bootstrap/DataGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/java/com/sample/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-14-ORM-Queries/src/main/resources/data.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +272,7 @@
       <workItem from="1666111136919" duration="5994000" />
       <workItem from="1666277583986" duration="197000" />
       <workItem from="1666277784250" duration="13704000" />
-      <workItem from="1666710487967" duration="15978000" />
+      <workItem from="1666710487967" duration="19949000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661881041475</created>
@@ -418,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667221467992</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Queries">
+      <created>1667223217684</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667223217684</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
