@@ -18,6 +18,7 @@
         <module>Spring-10-ORM-TableCreation</module>
         <module>Spring-11-ORM-Mapping-OneToOne</module>
         <module>Spring-14-ORM-Queries</module>
+        <module>Spring-15-REST</module>
     </modules>
 
     <properties>
